@@ -12,3 +12,9 @@ npm i --save-dev gulp
 
 npm install sass --save-dev  
 
+npm install gulp-webp --save-dev
+
+npm install gulp-cache --save-dev
+
+npm install gulp-imagemin --save-dev
+
